@@ -355,6 +355,9 @@
     <Compile Include="Application\MifareUltralight.c">
       <SubType>compile</SubType>
     </Compile>
+    <Compile Include="Application\NTAG21x.c">
+      <SubType>compile</SubType>
+    </Compile>
     <Compile Include="Codec\Codec.c">
       <SubType>compile</SubType>
     </Compile>
